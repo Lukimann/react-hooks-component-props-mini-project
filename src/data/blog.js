@@ -6,7 +6,7 @@ const blogData = {
   about: "A blog about learning React",
   posts: [
     {
-      id: 1,
+      id1: 1,
       title: "Components 101",
       date: "December 15, 2020",
       preview: "Setting up the building blocks of your site",
